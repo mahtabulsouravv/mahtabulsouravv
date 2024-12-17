@@ -33,5 +33,5 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 💬 Social
-[Follow Me On GitHub 😊](https://github.com/mahtabulshouravv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Follow Me On GitHub 😊](https://github.com/mahtabulsouravv)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 📱&nbsp;[Facebook](https://www.facebook.com/mahtabulgfy/) 
