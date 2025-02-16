@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media1.tenor.com/m/NLDhqgRey0kAAAAd/gojo-satoru-gojo.gif" style="width: 100%;"/>
+    <img src="https://media1.tenor.com/m/NLDhqgRey0kAAAAd/gojo-satoru-gojo.gif" style="width: 50%;"/>
 </div>
 <div align="center">
     <h2 style="font-weight: bold; font-size: 1.5em;">Hi 
