@@ -5,8 +5,6 @@
     <h2 style="font-weight: bold; font-size: 1.5em;">Hi 
     <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="50px"/>, I'm Mahtabul Shourav.</h2>
     I'm a CS undergrad and an AI/ML enthusiast, currently interning at <a href="https://lynkeus.kr/">Lynkeus AI - 린케우스</a>
-    <br>
-    I enjoy crafting new solutions with modern tech stacks.
 </div>
 <br>
 <div id="badges" align="center">
