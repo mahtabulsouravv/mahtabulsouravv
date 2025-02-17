@@ -5,8 +5,9 @@
     <h2 style="font-weight: bold; font-size: 1.5em;">Hi 
     <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="50px"/>, I'm Mahtabul Shourav.</h2>
     I'm a CS undergrad and an AI/ML enthusiast, currently interning at <a href="https://lynkeus.kr/">Lynkeus AI - 린케우스</a>
+    <br>
+    <h3>Contact Me</h3>
 </div>
-<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
