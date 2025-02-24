@@ -1,6 +1,6 @@
 <div align="center">
-    <h2 style="font-weight: bold; font-size: 1.5em;">Hi 
-    <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="50px"/>, Don't Have Good Day Have A Great Day</h2>
+    <h2 style="font-weight: bold; font-size: 1.5em;">Hello,
+    <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="50px"/> world!</h2>
     I'm a CS undergrad and an AI/ML enthusiast, currently working with PyQt & OpenCV</a>
     <br>
 </div>
@@ -17,9 +17,6 @@
   </a>
   <a href="https://discord.com/users/790288132313448508" target="_blank">
     <img src="https://img.shields.io/badge/Discord-424549?style=for-the-badge" alt="Discord Badge"/>
-  </a>
-  <a href="mailto:mahtabulsouravcse@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-C71610?style=for-the-badge" alt="Gmail Badge"/>
   </a>
 </div>
 
