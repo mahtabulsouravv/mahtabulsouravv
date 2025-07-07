@@ -1,7 +1,7 @@
 <div align="center">
     <h2 style="font-weight: bold; font-size: 1.5em;">Hello,
     <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="50px"/> world!</h2>
-    ☄️ Turning coffee into code, Chasing software dreams
+    Turning coffee into code, Chasing software dreams ☄️
     <br>
 </div>
 <br>
