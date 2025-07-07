@@ -1,10 +1,11 @@
 <div align="center">
     <h2 style="font-weight: bold; font-size: 1.5em;">Hello,
     <img src="https://media.tenor.com/hVRhFeDFW6oAAAAi/anime-wave.gif" width="50px"/> world!</h2>
-    I'm a CS undergrad and an AI/ML enthusiast, currently working with PyQt & OpenCV</a>
+    ☄️ Turning coffee into code, Chasing software dreams
     <br>
 </div>
 <br>
+
 <div id="badges" align="center">
   <a href="https://mahtabulstack.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-624E88?style=for-the-badge" alt="Portfolio Badge"/>
@@ -20,13 +21,11 @@
   </a>
 </div>
 
-<div id="click" align="center">
-  <h3 style="font-weight: bold; font-size: 1.5em;">
-    Reach Me Out!
-  <img src="https://media.tenor.com/oQImZjcKwBIAAAAi/backhand-index-pointing-up-joypixels.gif" width="20px"/>
-  <img src="https://media.tenor.com/HBvDET4Uq90AAAAj/cursor-click.gif" width="30px"/></h3>
-</div>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahtabulsouravv&layout=compact&theme=default" alt="Top Langs">
-</div>
+<!-- Borderless Side by Side Stats with Extra Space -->
+<p align="center">
+  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api?username=mahtabulsouravv&show_icons=true&rank_icon=github&include_all_commits=true&theme=material-palenight&card_width=250&hide=prs,issues&show=reviews" alt="GitHub Stats">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api/top-langs/?username=mahtabulsouravv&layout=compact&theme=material-palenight&langs_count=20&exclude_repo=react-tailwind,obsidian-doc&card_width=400" alt="Top Langs">
+</p>
