@@ -25,7 +25,7 @@
 
 <!-- Borderless Side by Side Stats with Extra Space -->
 <p align="center">
-  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api?username=mahtabulsouravv&show_icons=true&rank_icon=github&include_all_commits=true&theme=material-palenight&card_width=250&hide=prs,issues&show=reviews" alt="GitHub Stats">
+  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api?username=mahtabulsouravv&show_icons=true&rank_icon=github&include_all_commits=true&theme=material-palenight&card_width=400&hide=prs,issues&show=reviews" alt="GitHub Stats">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api/top-langs/?username=mahtabulsouravv&layout=compact&theme=material-palenight&langs_count=20&exclude_repo=react-tailwind,obsidian-doc&card_width=400" alt="Top Langs">
 </p>
