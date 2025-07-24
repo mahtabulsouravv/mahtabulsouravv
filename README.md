@@ -25,9 +25,9 @@
 
 <!-- Center Aligned Stats, One Below the Other -->
 <p align="center">
-  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api?username=mahtabulsouravv&show_icons=true&rank_icon=github&include_all_commits=true&theme=material-palenight&hide=prs,issues&show=reviews" alt="GitHub Stats">
+  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api?username=mahtabulsouravv&show_icons=true&rank_icon=github&include_all_commits=true&theme=nord&hide=prs,issues&show=reviews" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api/top-langs/?username=mahtabulsouravv&layout=compact&theme=material-palenight&langs_count=20&exclude_repo=react-tailwind,obsidian-doc&&hide_progress=true&card_width=470" alt="Top Langs">
+  <img src="https://github-stats-mahtabul-shouravs-projects.vercel.app/api/top-langs/?username=mahtabulsouravv&layout=compact&theme=nord&langs_count=20&exclude_repo=react-tailwind,obsidian-doc&&hide_progress=true&card_width=470" alt="Top Langs">
 </p>
